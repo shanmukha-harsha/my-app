@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shanmukha-harsha.github.io/static/css/main.ce5023f2.css",
+    "main.js": "/shanmukha-harsha.github.io/static/js/main.a96bb90c.js",
+    "static/media/IMG_2504.jpg": "/shanmukha-harsha.github.io/static/media/IMG_2504.67f5c47ba1fd385b768d.jpg",
+    "static/media/IMG_2236_Original.jpg": "/shanmukha-harsha.github.io/static/media/IMG_2236_Original.ac354e2ca17f07b9a29d.jpg",
+    "static/media/SJSU.jpg": "/shanmukha-harsha.github.io/static/media/SJSU.3ad0daa46f3b82476881.jpg",
+    "static/media/technology-gb0d033055_1920.jpg": "/shanmukha-harsha.github.io/static/media/technology-gb0d033055_1920.8594d8be12182c0cf260.jpg",
+    "static/media/SJSU_Seal.jpg": "/shanmukha-harsha.github.io/static/media/SJSU_Seal.fa0e5ec144f4ca51bb2d.jpg",
+    "static/media/Screenshot_20200214-205420_Photos_Original.jpg": "/shanmukha-harsha.github.io/static/media/Screenshot_20200214-205420_Photos_Original.053ead8dbca303bf455e.jpg",
+    "static/media/1533471.jpg": "/shanmukha-harsha.github.io/static/media/1533471.7fcda8d956881a8ac4bc.jpg",
+    "static/media/Osmania_University_Logo.jpg": "/shanmukha-harsha.github.io/static/media/Osmania_University_Logo.82fef5b3d2bde629bc52.jpg",
+    "index.html": "/shanmukha-harsha.github.io/index.html",
+    "main.ce5023f2.css.map": "/shanmukha-harsha.github.io/static/css/main.ce5023f2.css.map",
+    "main.a96bb90c.js.map": "/shanmukha-harsha.github.io/static/js/main.a96bb90c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce5023f2.css",
+    "static/js/main.a96bb90c.js"
+  ]
+}
