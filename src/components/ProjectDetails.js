@@ -15,7 +15,7 @@ const ProjectDetails = () => {
                 <p>Application that scores essay inputs based on 6 parameters.</p>
                 <p>Used RoBERTa and DeBERTa, compared them.</p>
                 <p>Achieved a Mean Columnwise RMSE loss of 0.43</p>
-                <Link to={{ pathname: "https://www.google.com/" }} className="btn">LEARN MORE</Link>
+                <Link to={{ pathname: "https://www.google.com/" }} target="_blank" className="btn">LEARN MORE</Link>
             </div>
 
             <div className="card">
