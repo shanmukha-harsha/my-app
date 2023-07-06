@@ -15,7 +15,7 @@ const ProjectDetails = () => {
                 <p>Application that scores essay inputs based on 6 parameters.</p>
                 <p>Used RoBERTa and DeBERTa, compared them.</p>
                 <p>Achieved a Mean Columnwise RMSE loss of 0.43</p>
-                <Link to="https://www.google.com" className="btn">LEARN MORE</Link>
+                <a href="https://github.com/shanmukha-harsha/harsha.as/blob/main/Article%20Scoring%20Using%20NLP.pdf" className="btn">LEARN MORE</a>
             </div>
 
             <div className="card">
@@ -25,7 +25,7 @@ const ProjectDetails = () => {
                 <p>Utilized Spring Data JPA to perform CRUD operations.</p>
                 <p>Built RESTful web services using Spring MVC.</p>
                 <p>Unit and integration testing using JUnit and Mockito.</p>
-                <a href="https://www.google.com" className="btn">LEARN MORE</a>
+                <a href="/contact" className="btn">LEARN MORE</a>
             </div>
 
             <div className="card">
@@ -35,7 +35,7 @@ const ProjectDetails = () => {
                 <p>Application that uses pixel-level filters on images.</p>
                 <p>Detects emotions using CNN and delivers captions.</p>
                 <p>Achieved a training accuracy of 92.86%.</p><br></br>
-                <Link to="/contact" className="btn">LEARN MORE</Link>
+                <a href="https://github.com/shanmukha-harsha/harsha.as/blob/main/Cartoonify%20Image.pdf" className="btn">LEARN MORE</a>
             </div>
         </div>
     </div>

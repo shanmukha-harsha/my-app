@@ -122,8 +122,10 @@
     }
 
     .my-img {
+        display: flex;
+        margin: auto;
+        align-items: center;
         height: 100%;
-        width: 100%;
-        padding: 2rem;
+        width: 280px;
     }
 }
