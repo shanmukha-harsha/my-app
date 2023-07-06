@@ -25,7 +25,7 @@ const ProjectDetails = () => {
                 <p>Utilized Spring Data JPA to perform CRUD operations.</p>
                 <p>Built RESTful web services using Spring MVC.</p>
                 <p>Unit and integration testing using JUnit and Mockito.</p>
-                <Link to="/contact" className="btn">LEARN MORE</Link>
+                <a href="https://www.google.com" className="btn">LEARN MORE</a>
             </div>
 
             <div className="card">
