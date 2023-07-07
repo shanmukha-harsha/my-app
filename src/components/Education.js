@@ -13,6 +13,7 @@ const Education = () => {
             <img src={sjsu} alt="img"/>
             <div className="text-box">
                 <h2>San Jose State University</h2>
+                <h3>M.S., Computer Science</h3>
                 <h5>GPA: 3.71</h5>
                 <small>2022 - 2024</small>
                 <p>Relevant Coursework: Design & Analysis of Algorithms, Topics in Artificial Intelligence, Computer Communication Systems, Advanced Topics in CS.</p>
@@ -24,6 +25,7 @@ const Education = () => {
             <img src={ou} alt="img"/>
             <div className="text-box">
                 <h2>Osmania University</h2>
+                <h3>B.E., Computer Science & Engineering</h3>
                 <h5>GPA: 3.6</h5>
                 <small>2017 - 2021</small>
                 <p>Relevant Coursework: Object Oriented Programming using Java, Data Structures, Artificial Intelligence, Cloud Computing, Compiler Construction, Databases, Data Mining.</p>
