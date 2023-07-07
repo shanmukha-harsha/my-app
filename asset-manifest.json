@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.c6054d82.css",
-    "main.js": "/my-app/static/js/main.7787b56d.js",
+    "main.js": "/my-app/static/js/main.bd290612.js",
     "static/media/IMG_2504.jpg": "/my-app/static/media/IMG_2504.67f5c47ba1fd385b768d.jpg",
     "static/media/IMG_2236_Original.jpg": "/my-app/static/media/IMG_2236_Original.ac354e2ca17f07b9a29d.jpg",
     "static/media/SJSU.jpg": "/my-app/static/media/SJSU.3ad0daa46f3b82476881.jpg",
@@ -12,10 +12,10 @@
     "static/media/Osmania_University_Logo.jpg": "/my-app/static/media/Osmania_University_Logo.82fef5b3d2bde629bc52.jpg",
     "index.html": "/my-app/index.html",
     "main.c6054d82.css.map": "/my-app/static/css/main.c6054d82.css.map",
-    "main.7787b56d.js.map": "/my-app/static/js/main.7787b56d.js.map"
+    "main.bd290612.js.map": "/my-app/static/js/main.bd290612.js.map"
   },
   "entrypoints": [
     "static/css/main.c6054d82.css",
-    "static/js/main.7787b56d.js"
+    "static/js/main.bd290612.js"
   ]
 }
